@@ -11,7 +11,7 @@ I have taken a proactive and pragmatic approach to learn Computer Science as a r
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mubeenyasin72&exclude_days=Sun&theme=highcontrast&layout=compa”)](https://git.io/streak-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mubeenyasin72&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mubeenyasin72&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@mubeenyasin75)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
